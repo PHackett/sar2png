@@ -3,3 +3,5 @@ THis is a test.
 And once more.
 
 Now edited on GitHub.
+
+Once more edited locally.
