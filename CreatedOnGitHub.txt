@@ -6,3 +6,4 @@ Edited on GitHub once more ...
 .. Will clash with
 Another change - Hopefully this time SVN
 ... and again!
+and once more locally
