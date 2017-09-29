@@ -4,4 +4,4 @@ Edited locally.
 Edited on GitHub once more ...
 ... and again
 .. Will clash with
-Another change - Hpefully this time SVN
+Another change - Hopefully this time SVN
